@@ -262,4 +262,5 @@ a:focus-visible {
 	visibility: hidden;
 	pointer-events: none;
 	position: absolute;
+	background-size: cover;
 }
